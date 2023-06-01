@@ -1,6 +1,6 @@
 <div align="center">
 
-# Creative Agency Landing Page Template | Crimson
+# Google Pagination | Crimson
 
 <img src="admin/base.png">
 
